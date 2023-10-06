@@ -1,0 +1,22 @@
+Jay Tours Website
+
+1. There are 6 web pages, Including...
+
+		HTML Files
+
+	1) Home = index.html
+	2) About = about.html
+	3) Services = services.html
+	4) Testimonals = testimonials.html
+	5) Portfolio = portfolio.html
+	6) Contacts = contacts.html
+
+2. CSS Files
+
+	1)Style.css
+	2)Style2nd.css
+
+3. Images Folder
+
+How to run code - In the Assignment folder, need to run the VS code IDE - index.html
+
